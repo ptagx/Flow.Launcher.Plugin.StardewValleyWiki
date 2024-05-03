@@ -1,0 +1,12 @@
+{
+    "ID": "E5CBD6900F7743059CCB66A44652E12A",
+    "ActionKeyword": "sv",
+    "Name": "StardewValleyWiki",
+    "Description": "A Flow Launcher plugin to search the Stardew Valley Wiki",
+    "Author": "tagoh",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/tagoh/Flow.Launcher.Plugin.StardewValleyWiki",
+    "IcoPath": "icon.png",
+    "ExecuteFileName": "Flow.Launcher.Plugin.StardewValleyWiki.dll"
+}
