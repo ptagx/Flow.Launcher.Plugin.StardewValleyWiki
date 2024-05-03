@@ -5,8 +5,8 @@
     <AssemblyName>Flow.Launcher.Plugin.StardewValleyWiki</AssemblyName>
     <PackageId>Flow.Launcher.Plugin.StardewValleyWiki</PackageId>
     <Authors>tagoh</Authors>
-    <PackageProjectUrl>https://github.com/tagoh/Flow.Launcher.Plugin.StardewValleyWiki</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/tagoh/Flow.Launcher.Plugin.StardewValleyWiki</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/ptagx/Flow.Launcher.Plugin.StardewValleyWiki</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/ptagx/Flow.Launcher.Plugin.StardewValleyWiki</RepositoryUrl>
     <PackageTags>flow-launcher flow-plugin</PackageTags>
     <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
     <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
